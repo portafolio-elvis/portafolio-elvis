@@ -7,26 +7,45 @@
 ## 🎯 Stack Tecnológico
 
 ### Frontend
-- **HTML5** | **CSS3** | **JavaScript (ES6+)**
-- **Bootstrap** | **Responsive Design**
-- **DOM** | **Fetch API** | **Eventos**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive_Design-000000?logo=responsive-design&logoColor=white)
+
+![DOM](https://img.shields.io/badge/DOM-Document_Object_Model-blue)
+![Fetch API](https://img.shields.io/badge/Fetch_API-000000?logo=javascript&logoColor=white)
+![Eventos](https://img.shields.io/badge/Eventos-JS-yellow)
+
+---
 
 ### Backend
-- **Node.js** | **Express.js**
-- **Arquitectura REST API**
-- **Autenticación JWT**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST_API-02569B)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+---
 
 ### Bases de Datos
-- **PostgreSQL** | **SQL**
-- **Sequelize ORM**
-- **Relaciones (1:1, 1:N, N:N)**
-- **Transaccionalidad ACID**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57)
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Relaciones](https://img.shields.io/badge/Relaciones-1:1_|_1:N_|_N:N-blue)
+![ACID](https://img.shields.io/badge/ACID-Transaccionalidad-green)
+
+---
 
 ### Herramientas & Prácticas
-- **Git & GitHub** (control de versiones)
-- **Clean Code** (legibilidad y mantenibilidad)
-- **Postman** (testing de APIs)
-- **Variables de entorno (.env)**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![.env](https://img.shields.io/badge/.env-Variables-yellow)
 
 ---
 
@@ -47,7 +66,7 @@
 - Completé 10 módulos con 472 horas de formación
 - Desarrollé aplicaciones web funcionales integrando HTML, CSS, JavaScript, Node.js y PostgreSQL
 - Implementé APIs REST con autenticación JWT y relaciones ORM complejas
-- Aplicué buenas prácticas de programación y arquitectura de software
+- Apliqué buenas prácticas de programación y arquitectura de software
 
 ---
 
@@ -62,9 +81,9 @@
 
 ## 📱 Conecta conmigo
 
-- **GitHub**: [github.com/tu-usuario](https://github.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com)
-- **Email**: tu-email@ejemplo.com
+- **GitHub**: https://github.com/tu-usuario  
+- **LinkedIn**: https://linkedin.com/in/tu-perfil  
+- **Email**: tu-email@ejemplo.com  
 
 ---
 
