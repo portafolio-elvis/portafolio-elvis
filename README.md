@@ -1,90 +1,45 @@
-# 👨‍💻 Desarrollador Full Stack JavaScript
+<h1 align="left">¡Hola! 👋 Soy Elvis</h1>
 
-> Especializado en construir aplicaciones web escalables con la stack completa JavaScript. Bootcamp SENCE completado.
+###
 
----
+<p align="left">👨‍💻 Soy un entusiasta aprendiz de programación con habilidades en HTML, CSS, JavaScript, Django, Python, Bootstrap y Java.<br><br>🌎 Vivo actualmente en Chile, un país de paisajes impresionantes y una cultura rica y variada. Estar aquí ha enriquecido mi perspectiva y mi pasión por la tecnología y el desarrollo de software.<br><br>💼 Me dedico al Desarrollo Full Stack en Javascript, fusionando creatividad y habilidades técnicas para construir aplicaciones desde cero y llevarlas a producción.<br><br>📚 Mi formación se basa en una amplia gama de recursos en línea, cursos y proyectos prácticos que me han permitido dominar los lenguajes y tecnologías mencionados.<br><br>🚀 Aunque no tengo experiencias laborales previas en el campo, mi dedicación al aprendizaje continuo y mi pasión por la creación de software son razones sólidas para contactarme. Estoy siempre dispuesto a enfrentar nuevos desafíos y aprender de ellos.<br><br>✉️ Pueden contactarme a través de mi correo electrónico elvis.codev@gmail.com o mediante mi perfil en LinkedIn https://linkedin.com/in/elvisandrade. Estoy abierto a discutir oportunidades de colaboración, proyectos interesantes o cualquier otra consulta relacionada con el desarrollo de software.</p>
 
-## 🎯 Stack Tecnológico
+###
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<h2 align="left">Conocimientos Utilizando:</h2>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive_Design-000000?logo=responsive-design&logoColor=white)
+###
 
-![DOM](https://img.shields.io/badge/DOM-Document_Object_Model-blue)
-![Fetch API](https://img.shields.io/badge/Fetch_API-000000?logo=javascript&logoColor=white)
-![Eventos](https://img.shields.io/badge/Eventos-JS-yellow)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
 
----
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-
----
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57)
-
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
-![Relaciones](https://img.shields.io/badge/Relaciones-1:1_|_1:N_|_N:N-blue)
-![ACID](https://img.shields.io/badge/ACID-Transaccionalidad-green)
-
----
-
-### Herramientas & Prácticas
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-![Clean Code](https://img.shields.io/badge/Clean_Code-000000)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![.env](https://img.shields.io/badge/.env-Variables-yellow)
-
----
-
-## 💼 Competencias Clave
-
-✅ **Desarrollo Full Stack**: Desde frontend responsivo hasta backend escalable  
-✅ **APIs REST Profesionales**: Diseño RESTful, versionamiento, códigos HTTP  
-✅ **Seguridad**: Autenticación con JWT, validación de datos, manejo de errores  
-✅ **Bases de Datos**: Modelado relacional, queries optimizadas, integridad referencial  
-✅ **Asincronía**: Callbacks, Promises, async/await  
-✅ **Control de Versiones**: Git workflow profesional, commits significativos  
-
----
-
-## 📊 Experiencia Reciente
-
-**Bootcamp Full Stack JavaScript - SENCE** (2024-2025)
-- Completé 10 módulos con 472 horas de formación
-- Desarrollé aplicaciones web funcionales integrando HTML, CSS, JavaScript, Node.js y PostgreSQL
-- Implementé APIs REST con autenticación JWT y relaciones ORM complejas
-- Apliqué buenas prácticas de programación y arquitectura de software
-
----
-
-## 🚀 Interesado en
-
-- Roles de **Junior Developer** o **Full Stack Developer**
-- Proyectos que involucren **desarrollo web completo**
-- Oportunidades para **crecer en la industria TI**
-- Trabajo en equipo con metodologías ágiles
-
----
-
-## 📱 Conecta conmigo
-
-- **GitHub**: https://github.com/tu-usuario  
-- **LinkedIn**: https://linkedin.com/in/tu-perfil  
-- **Email**: tu-email@ejemplo.com  
-
----
-
-> *"Cada proyecto es una oportunidad para aprender, mejorar y demostrar que puedo construir soluciones profesionales."*
+###
