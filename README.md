@@ -71,7 +71,7 @@ const elvis = {
 
 | Año | Institución | Programa |
 |-----|------------|----------|
-| 2024 — En curso | **SENCE** | Desarrollador/a de Aplicaciones Full Stack JavaScript |
+| 2026 | **MindHub** | Desarrollador/a de Aplicaciones Full Stack JavaScript |
 
 ## 🚀 Proyectos Destacados
 
