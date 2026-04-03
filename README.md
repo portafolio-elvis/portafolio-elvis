@@ -9,7 +9,7 @@ buscando siempre fusionar creatividad y habilidades técnicas para construir apl
 desde cero y llevarlas a producción.
 
 [![GitHub followers](https://img.shields.io/github/followers/portafolio-elvis?label=Followers&style=social)](https://github.com/portafolio-elvis)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=flat&logo=vercel&logoColor=black)](https://gestion-tareas-elvis.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=flat&logo=vercel&logoColor=black)](https://portafolio-proyectos-gamma.vercel.app/)
 
 </div>
 
@@ -71,7 +71,7 @@ const elvis = {
 
 | Año | Institución | Programa |
 |-----|------------|----------|
-| 2026 | **MindHub** | Desarrollador/a de Aplicaciones Full Stack JavaScript |
+| 2026 | **MindHub** | Desarrollador de Aplicaciones Full Stack JavaScript |
 
 ---
 
@@ -81,12 +81,12 @@ const elvis = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis_Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvisandrade)
 [![GitHub](https://img.shields.io/badge/GitHub-portafolio--elvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/portafolio-elvis)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://gestion-tareas-elvis.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-proyectos-gamma.vercel.app/)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Desarrollado con ❤️ usando JavaScript · Node.js · Express · PostgreSQL</sub>
+  <sub>Desarrollado con JavaScript · Node.js · Express · PostgreSQL</sub>
 </div>
