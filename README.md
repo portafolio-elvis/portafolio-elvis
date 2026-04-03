@@ -103,6 +103,7 @@ const elvis = {
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis_Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvisandrade)
 [![GitHub](https://img.shields.io/badge/GitHub-portafolio--elvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/portafolio-elvis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://gestion-tareas-elvis.vercel.app/)
 
