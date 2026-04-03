@@ -73,30 +73,6 @@ const elvis = {
 |-----|------------|----------|
 | 2026 | **MindHub** | Desarrollador/a de Aplicaciones Full Stack JavaScript |
 
-## 🚀 Proyectos Destacados
-
-### 📋 [Gestión de Tareas](https://github.com/portafolio-elvis/gestion-tareas-elvis)
-> Aplicación web Full Stack de gestión de tareas con autenticación de usuarios, diseño responsivo y animaciones fluidas.
-
-**Stack:** `Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `Handlebars` · `Tailwind CSS` · `JWT` · `GSAP`
-
-[![Demo](https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gestion-tareas-elvis.vercel.app/)
-[![Código](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/portafolio-elvis/gestion-tareas-elvis)
-
----
-
-### 🍽️ Buscador de Recetas
-> Motor de búsqueda de recetas culinarias. Consume la API de MealDB con lógica asincrónica para mostrar resultados en tiempo real.
-
-**Stack:** `JavaScript` · `HTML5` · `CSS3` · `Fetch API` · `REST API`
-
----
-
-### 🌐 Portafolio Personal
-> Sitio web de portafolio profesional construido con Node.js y Express. Diseño moderno con animaciones CSS y despliegue en Vercel.
-
-**Stack:** `Node.js` · `Express` · `HTML5` · `CSS3` · `JavaScript`
-
 ---
 
 ## 🌐 Contacto
