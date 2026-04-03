@@ -72,23 +72,6 @@ const elvis = {
 | Año | Institución | Programa |
 |-----|------------|----------|
 | 2024 — En curso | **SENCE** | Desarrollador/a de Aplicaciones Full Stack JavaScript |
-| — | — | — |
-
-### 📚 Plan Formativo — Full Stack JavaScript
-
-Formación técnica orientada al desarrollo de aplicaciones web Full Stack con JavaScript, aplicando buenas prácticas de la industria para producir software de calidad.
-
-| # | Módulo | Descripción |
-|---|--------|-------------|
-| 01 | **Programación Básica en JavaScript** | Codificación de software de baja/mediana complejidad para resolver problemáticas comunes de la industria |
-| 02 | **Programación Avanzada en JavaScript** | POO, programación orientada a eventos y programación asíncrona |
-| 03 | **Fundamentos del Desarrollo Web** | Construcción de páginas web con HTML, CSS y JavaScript según buenas prácticas |
-| 04 | **Desarrollo de Backend en Node** | Aplicaciones web Backend con entorno multiplataforma Node.js |
-| 05 | **Acceso a Base de Datos con Node** | Consultas y manipulación de datos con Node.js |
-| 06 | **El Framework Express** | Aplicaciones empresariales con servicios REST usando Express y Node.js |
-| 07 | **Apresto Laboral** | Integración al mundo laboral actual en el área TI |
-
----
 
 ## 🚀 Proyectos Destacados
 
@@ -113,18 +96,6 @@ Formación técnica orientada al desarrollo de aplicaciones web Full Stack con J
 > Sitio web de portafolio profesional construido con Node.js y Express. Diseño moderno con animaciones CSS y despliegue en Vercel.
 
 **Stack:** `Node.js` · `Express` · `HTML5` · `CSS3` · `JavaScript`
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=portafolio-elvis&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0e12&title_color=8ff5ff&icon_color=ac89ff&text_color=abaab0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=portafolio-elvis&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0e12&title_color=8ff5ff&text_color=abaab0)
-
-</div>
 
 ---
 
