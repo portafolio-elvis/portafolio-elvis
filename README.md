@@ -83,8 +83,7 @@ const elvis = {
 
 ## 🌐 Contacto
 
-<div align="center">
-
+[![Gmail](https://img.shields.io/badge/Gmail-elvis.codev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvis.codev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis_Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvisandrade)
 [![GitHub](https://img.shields.io/badge/GitHub-portafolio--elvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/portafolio-elvis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-8ff5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-proyectos-gamma.vercel.app/)
