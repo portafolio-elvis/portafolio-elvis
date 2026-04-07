@@ -74,6 +74,12 @@ const elvis = {
 | 2026 | **MindHub** | Desarrollador de Aplicaciones Full Stack JavaScript |
 
 ---
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=portafolio-elvis&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=portafolio-elvis&layout=compact&theme=tokyonight)
+---
 
 ## 🌐 Contacto
 
